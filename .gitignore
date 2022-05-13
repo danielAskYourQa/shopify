@@ -1,0 +1,13 @@
+.DS_Store
+*.iml
+*.ipr
+*.iws
+target
+test-output
+.settings/
+.project
+.classpath
+.idea/
+logs/
+debug.log
+jmeter.log
